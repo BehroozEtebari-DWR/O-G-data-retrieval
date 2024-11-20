@@ -1,6 +1,6 @@
 For the C2VSimFG version 2.0 update, we plan to implement the injection of brine water back into geologic formations. Since some of these injections occur at shallow depths below the Mid_Tulare Claystone and Amnicola Claystone, brine-water injections were not included in C2VSimFG1.5. 
 
-To proceed with this update, the required data must first be downloaded from the Depth of Conservation/Oil and Gas Management website:
+To proceed with this update, the required data must first be downloaded from the Department of Conservation/Oil and Gas Management website:
 
 [Production and Injection Data](https://filerequest.conservation.ca.gov/?q=production_injection_data)
 
