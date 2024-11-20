@@ -1,2 +1,4 @@
 # O-G-data-retrieval
-How to convert SQL files to csv files to implement injection of brine waters
+to implement injection of brine waters we need to convert SQL files to csv files 
+link for source files are here:
+https://filerequest.conservation.ca.gov/?q=production_injection_data
