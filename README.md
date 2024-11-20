@@ -3,6 +3,7 @@ For the C2VSimFG version 2.0 update, we plan to implement the injection of brine
 To proceed with this update, the required data must first be downloaded from the Department of Conservation/Oil and Gas Management website:
 
 [Production and Injection Data](https://filerequest.conservation.ca.gov/?q=production_injection_data)
+https://filerequest.conservation.ca.gov/?q=production_injection_data
 
 The SQL files from the source need to be converted into CSV format. I have created a Jupyter Python notebook to facilitate this process. Each annual dataset contains three databases, and automation to iterate through all of them is not possible.
 
