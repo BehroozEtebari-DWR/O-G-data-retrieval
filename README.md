@@ -23,3 +23,6 @@ The SQL files from the source need to be converted into CSV format. I have creat
    - Re-run the notebook for each year, from 1977 to 2020, or other relevant datasets.
 
 This manual process ensures proper extraction and conversion of the required data for implementing the brine-water injections in C2VSimFG version 2.0.
+
+For more information on GEOLOGY please visit this website:
+https://webapps.usgs.gov/cogg/findings/mapping-aquifer-salinity-gradients-and-effects-of-oil-field-produced-water-disposal-using-geophysical-logs-elk-hills-buena-vista-and-coles-levee-oil-fields-san-joaquin-valley-california
