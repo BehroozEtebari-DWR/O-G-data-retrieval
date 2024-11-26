@@ -26,6 +26,8 @@ This manual process ensures proper extraction and conversion of the required dat
 
 For more information on GEOLOGY please visit this website:
 https://webapps.usgs.gov/cogg/findings/mapping-aquifer-salinity-gradients-and-effects-of-oil-field-produced-water-disposal-using-geophysical-logs-elk-hills-buena-vista-and-coles-levee-oil-fields-san-joaquin-valley-california
+
 Thanks to Michael J Stephens at USGS for sharing his codes and I modified his code somehow to run it:
+
 and this paper:
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263477
